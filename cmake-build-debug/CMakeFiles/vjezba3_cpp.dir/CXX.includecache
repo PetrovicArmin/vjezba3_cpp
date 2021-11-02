@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/armin/Fakultet/Algoritmi i Strukture podataka/Vjezbe/LAB3/vjezba3.cpp/main.cpp
+iostream
+-
+
